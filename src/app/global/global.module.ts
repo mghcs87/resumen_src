@@ -2,15 +2,18 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { BadComponent } from './components/bad/bad.component';
 import { TranslateModule } from '@ngx-translate/core';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 
 
 @NgModule({
   declarations: [
-    BadComponent
+    BadComponent,
+    NavbarComponent
   ],
   exports: [
-    BadComponent
+    BadComponent,
+    NavbarComponent
   ],
   imports: [
     CommonModule,
