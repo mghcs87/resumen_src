@@ -1,4 +1,7 @@
 {
+    "TOOLBAR_MENU_ABOUT":                                        "About me",
+    "TOOLBAR_MENU_FORMATION":                                    "Formation",
+    
     "BAD_LABEL_TITLE":                                           "Link not found",
     "BAD_LABEL_MESSAGE":                                         "The link you followed may be broken or no longer available on this site.",
    

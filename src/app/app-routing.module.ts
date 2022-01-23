@@ -4,6 +4,10 @@ import { BadComponent } from './global/components/bad/bad.component';
 
 const routes: Routes = [
   {
+    path: '',
+    loadChildren: () => import('./pages/pages.module').then( m => m.PagesModule )
+  },
+  {
     path: '404',
     component: BadComponent
   },
