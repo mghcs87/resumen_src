@@ -1,0 +1,9 @@
+.bad{
+    min-height: 70vh;
+    &__alert{
+        background-color: var(--app-color-background-items);       
+        span{
+            font-size: 2rem;
+        }
+    }
+}

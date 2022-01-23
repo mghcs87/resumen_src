@@ -1,4 +1,6 @@
 {
+    "BAD_LABEL_TITLE":                                           "Enlace no encontrado",
+    "BAD_LABEL_MESSAGE":                                         "El enlace que siguió puede estar roto o ya no está disponible en este sitio.",
    
     "end":""
 }
