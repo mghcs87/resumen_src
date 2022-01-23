@@ -1,0 +1,23 @@
+<div class="p-0 mt-1">
+    <div class="row mt-2">
+        <div class="col col-lg-4 col-xl-3 mb-2" *ngFor="let skill of skills">
+            <div class="card p-3 mb-2">
+                <div class="d-flex justify-content-between">
+                    <div class="d-flex flex-row align-items-center">
+                        <div class="icon">
+                            <img [src]="skill.image" alt="skill logo">
+                        </div>
+                        <div class="ms-2 c-details">
+                            <h6 class="mb-0">{{skill.name | translate}}</h6> 
+                            <span>{{'EDUCATION_LABEL_SKILLS_LEVEL' | translate}}</span>
+                            <app-level-bar [level]="skill.level"></app-level-bar>  
+                        </div>
+                    </div>
+                    <div class="badge badge-skill text-uppercase">{{skill.category | translate}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
