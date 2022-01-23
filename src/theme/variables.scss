@@ -1,0 +1,23 @@
+/** Theme CSS Variables **/
+
+/*
+ * Light Theme
+ * -------------------------------------------
+ */
+:root {
+    --app-color-background: #ECEFF1;
+    --app-color-text: #616161;
+    --app-color-accent: #4CAF50;
+ 
+
+}
+
+/*
+ * Dark Theme
+ * -------------------------------------------
+ */
+body.dark {
+    --app-color-background: #1c1d2a;
+    --app-color-text: #FAFAFA;
+    --app-color-accent: #4CAF50;
+}
