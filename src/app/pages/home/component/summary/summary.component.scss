@@ -1,0 +1,15 @@
+.summary{
+    background-color: var(--app-color-background-items);
+}
+
+@media (max-width: 575.98px) {
+    .summary {
+        margin: 0 6px;
+    }
+}
+
+img{
+    width: 13em;
+    height: auto;
+    border-radius: 50%;
+}
