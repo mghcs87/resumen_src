@@ -4,6 +4,24 @@
 
     "BAD_LABEL_TITLE":                                           "Enlace no encontrado",
     "BAD_LABEL_MESSAGE":                                         "El enlace que siguió puede estar roto o ya no está disponible en este sitio.",
+
+    "EDUCATION_LABEL_TOP":                                       "Educación",
+    "EDUCATION_LABEL_PROFESSION":                                "ING. Informática",
+    "EDUCATION_LABEL_COLLEGE":                                   "Universidad de Holguín",
+    "EDUCATION_LABEL_SPECIALIZATION":                            "Especialización",
+    "EDUCATION_LABEL_SPECIALIZATION_TEXT":                       "Desarrollador de aplicaciones móviles",
+    "EDUCATION_LABEL_SPECIALIZATION_SUB":                        "Android  |  iOS  |  Apps Híbridas (Ionic)",
+    "EDUCATION_LABEL_SKILLS":                                    "Habilidades",
+    "EDUCATION_LABEL_SKILLS_LEVEL":                              "Nivel",
+    "EDUCATION_LABEL_MOBILE":                                    "Móvil",
+    "EDUCATION_LABEL_BASIC":                                     "Básica",
+    "EDUCATION_LABEL_WEB":                                       "Web",
+    "EDUCATION_LABEL_BACKEND":                                   "Backend",
+    "EDUCATION_LABEL_DATABASE":                                  "DataBase",
+    "EDUCATION_LABEL_LANGUAGE":                                  "Idioma",
+    "EDUCATION_LABEL_SPANISH":                                   "Spanish",
+    "EDUCATION_LABEL_ENGLISH":                                   "Inglés",
+
    
     "end":""
 }

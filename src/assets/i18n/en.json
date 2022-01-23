@@ -4,6 +4,23 @@
     
     "BAD_LABEL_TITLE":                                           "Link not found",
     "BAD_LABEL_MESSAGE":                                         "The link you followed may be broken or no longer available on this site.",
+
+    "EDUCATION_LABEL_TOP":                                       "Education",
+    "EDUCATION_LABEL_PROFESSION":                                "ING. Computing",
+    "EDUCATION_LABEL_COLLEGE":                                   "University of Holguin",
+    "EDUCATION_LABEL_SPECIALIZATION":                            "Specialization",
+    "EDUCATION_LABEL_SPECIALIZATION_TEXT":                       "Mobile application developer",
+    "EDUCATION_LABEL_SPECIALIZATION_SUB":                        "Android  |  iOS  |  Apps Hybrids (Ionic)",
+    "EDUCATION_LABEL_SKILLS":                                    "Skills",
+    "EDUCATION_LABEL_SKILLS_LEVEL":                              "Level",
+    "EDUCATION_LABEL_MOBILE":                                    "Mobile",
+    "EDUCATION_LABEL_BASIC":                                     "Basic",
+    "EDUCATION_LABEL_WEB":                                       "Web",
+    "EDUCATION_LABEL_BACKEND":                                   "Backend",
+    "EDUCATION_LABEL_DATABASE":                                  "DataBase",
+    "EDUCATION_LABEL_LANGUAGE":                                  "Language",
+    "EDUCATION_LABEL_SPANISH":                                   "Spanish",
+    "EDUCATION_LABEL_ENGLISH":                                   "English",
    
     "end":""
 }
