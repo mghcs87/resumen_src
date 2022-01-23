@@ -6,11 +6,13 @@ import { PagesRoutingModule } from './pages-routing.module';
 import { GlobalModule } from '../global/global.module';
 import { SummaryComponent } from './home/component/summary/summary.component';
 import { TranslateModule } from '@ngx-translate/core';
+import { ContactComponent } from './home/component/contact/contact.component';
 
 @NgModule({
   declarations: [
     HomeComponent,
-    SummaryComponent
+    SummaryComponent,
+    ContactComponent
   ],
   imports: [
     CommonModule,

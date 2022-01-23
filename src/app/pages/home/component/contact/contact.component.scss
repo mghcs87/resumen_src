@@ -1,0 +1,15 @@
+.contact{
+    background-color: var(--app-color-background-items);
+}
+
+@media (max-width: 575.98px) {
+    .contact {
+        margin: 0 6px;
+    }
+}
+
+a svg {
+    width: 2em;
+    height: 2em;
+    fill: var(--app-color-accent);
+}
