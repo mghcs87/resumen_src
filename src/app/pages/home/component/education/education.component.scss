@@ -1,0 +1,18 @@
+.education{
+    background-color: var(--app-color-background-items);
+    pre{
+        margin-bottom: 6px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .education {
+        margin: 0 6px;
+    }
+}
+
+.link-out{
+    a, b{
+        color: var(--app-color-text);
+    }
+}

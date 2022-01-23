@@ -9,6 +9,7 @@ import { TranslateModule } from '@ngx-translate/core';
 import { ContactComponent } from './home/component/contact/contact.component';
 import { LevelBarComponent } from './home/component/level-bar/level-bar.component';
 import { SkillComponent } from './home/component/skill/skill.component';
+import { EducationComponent } from './home/component/education/education.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { SkillComponent } from './home/component/skill/skill.component';
     SummaryComponent,
     ContactComponent,
     LevelBarComponent,
-    SkillComponent
+    SkillComponent,
+    EducationComponent
   ],
   imports: [
     CommonModule,
