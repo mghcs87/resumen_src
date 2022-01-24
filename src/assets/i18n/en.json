@@ -1,9 +1,14 @@
 {
     "TOOLBAR_MENU_ABOUT":                                        "About me",
-    "TOOLBAR_MENU_FORMATION":                                    "Formation",
+    "TOOLBAR_MENU_FORMATION":                                    "Education",
     
     "BAD_LABEL_TITLE":                                           "Link not found",
     "BAD_LABEL_MESSAGE":                                         "The link you followed may be broken or no longer available on this site.",
+
+    "SUMMARY_LABEL_TITLE":                                       "Mobile application developer",
+    "SUMMARY_LABEL_NAME":                                        "ING. Hector Cruz Santos",
+    "SUMMARY_LABEL_ABOUT_ME":                                    "Hi! My name is Hector Cruz, I started in the software industry in 2013 after finishing university, after that I focused my career on mobile development. I am passionate about creating applications for Android and iOS mobile devices, as the ETK, an Android application, considered the most popular application for two consecutive years (2017, 2018) in my native country, Cuba.",
+    "SUMMARY_LABEL_LOCATION":                                    "Jalisco, Mexico",
 
     "EDUCATION_LABEL_TOP":                                       "Education",
     "EDUCATION_LABEL_PROFESSION":                                "ING. Computing",
