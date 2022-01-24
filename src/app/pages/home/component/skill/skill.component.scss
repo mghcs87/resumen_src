@@ -1,0 +1,38 @@
+.card {
+    border: none;
+    background-color: var(--app-color-background);
+    border-radius: 10px
+}
+
+.icon {
+    width: 1.5em;
+    height: 1.5em;
+    background-color: var(--app-color-background-items);
+    border-radius: 0.45em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 39px
+}
+
+.icon img{
+    width: 1.2em;
+    height: 1.2em;
+}
+
+.badge-skill {
+    background-color: var(--app-color-skill-badge-background);
+    width: 60px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: var(--app-color-accent);
+    justify-content: center;
+    align-items: center
+}
+
+.c-details span {
+    font-weight: 300;
+    font-size: 13px
+}

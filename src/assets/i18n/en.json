@@ -1,4 +1,31 @@
 {
+    "TOOLBAR_MENU_ABOUT":                                        "About me",
+    "TOOLBAR_MENU_FORMATION":                                    "Education",
+    
+    "BAD_LABEL_TITLE":                                           "Link not found",
+    "BAD_LABEL_MESSAGE":                                         "The link you followed may be broken or no longer available on this site.",
+
+    "SUMMARY_LABEL_TITLE":                                       "Mobile application developer",
+    "SUMMARY_LABEL_NAME":                                        "ING. Hector Cruz Santos",
+    "SUMMARY_LABEL_ABOUT_ME":                                    "Hi! My name is Hector Cruz, I started in the software industry in 2013 after finishing university, after that I focused my career on mobile development. I am passionate about creating applications for Android and iOS mobile devices, as the ETK, an Android application, considered the most popular application for two consecutive years (2017, 2018) in my native country, Cuba.",
+    "SUMMARY_LABEL_LOCATION":                                    "Jalisco, Mexico",
+
+    "EDUCATION_LABEL_TOP":                                       "Education",
+    "EDUCATION_LABEL_PROFESSION":                                "ING. Computing",
+    "EDUCATION_LABEL_COLLEGE":                                   "University of Holguin",
+    "EDUCATION_LABEL_SPECIALIZATION":                            "Specialization",
+    "EDUCATION_LABEL_SPECIALIZATION_TEXT":                       "Mobile application developer",
+    "EDUCATION_LABEL_SPECIALIZATION_SUB":                        "Android  |  iOS  |  Apps Hybrids (Ionic)",
+    "EDUCATION_LABEL_SKILLS":                                    "Skills",
+    "EDUCATION_LABEL_SKILLS_LEVEL":                              "Level",
+    "EDUCATION_LABEL_MOBILE":                                    "Mobile",
+    "EDUCATION_LABEL_BASIC":                                     "Basic",
+    "EDUCATION_LABEL_WEB":                                       "Web",
+    "EDUCATION_LABEL_BACKEND":                                   "Backend",
+    "EDUCATION_LABEL_DATABASE":                                  "DataBase",
+    "EDUCATION_LABEL_LANGUAGE":                                  "Language",
+    "EDUCATION_LABEL_SPANISH":                                   "Spanish",
+    "EDUCATION_LABEL_ENGLISH":                                   "English",
    
     "end":""
 }

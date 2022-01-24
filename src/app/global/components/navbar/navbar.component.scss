@@ -1,0 +1,53 @@
+#app-navbar{
+    margin: 0 6px;
+    max-height: 56px;
+    background-color: var(--app-color-background);
+}
+
+.container{
+    background-color: var(--app-color-background-items);
+}
+
+.navbar-brand{
+    color: var(--app-color-text);
+    font-weight:400;
+    span{
+        color: var(--app-color-accent);
+    }
+}
+
+li a{
+    font-size: 0.85em;
+    color: var(--app-color-text);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.nav-link.active {
+    background-color: transparent !important;
+    color: var(--app-color-accent) !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar__icons{
+    .bg-normal{
+        background-color: var(--app-color-text);
+        color: var(--app-color-background-items);
+    }
+    .bg-actived{
+        background-color: var(--app-color-accent);
+        color: white;
+    }
+    .pointer{
+        cursor: pointer; 
+    }
+    a svg {
+        width: 24px;
+        height: 24px;
+        fill: var(--app-color-text);
+    }
+}
+

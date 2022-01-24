@@ -1,0 +1,54 @@
+<div class="education rounded-3 shadow-sm mt-4">
+    <div class="row p-4">
+        <div class="col-12 col-lg-6 mb-4">
+            <h2 class="text-uppercase">{{'EDUCATION_LABEL_TOP' | translate}}</h2>
+            <div class="row align-items-center">
+                <div class="col-12 col-sm-1">
+                    <span class="material-icons accent-color">school</span>
+                </div>
+                <div class="col-12 col-sm-11 ps-sm-0">
+                    <h5 class="text-uppercase accent-color">{{'EDUCATION_LABEL_PROFESSION' | translate}}</h5>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col link-out">
+                    <a target="_blank" rel="noopener" href="https://www.uho.edu.cu/">
+                        <b>{{'EDUCATION_LABEL_COLLEGE' | translate}}</b>
+                    </a>                    
+                </div>
+            </div>
+            <div class="with-icon">
+                <span class="material-icons">event</span>
+                2007 - 2013
+            </div>            
+        </div>
+        <div class="col-12 col-lg-6">
+            <h2 class="text-uppercase">{{'EDUCATION_LABEL_SPECIALIZATION' | translate}}</h2>
+            <div class="row align-items-center">
+                <div class="col-12 col-sm-1">
+                    <span class="material-icons accent-color">phone_iphone</span>
+                </div>
+                <div class="col-12 col-sm-11 ps-sm-0">
+                    <h5 class="text-uppercase accent-color">{{'EDUCATION_LABEL_SPECIALIZATION_TEXT' | translate}}</h5>
+                </div>
+            </div>
+            <div class="row align-items-center"> 
+                <div class="col-12">
+                    <pre>{{'EDUCATION_LABEL_SPECIALIZATION_SUB' | translate}}</pre>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row pt-0 p-4">
+        <div class="col-12">
+            <h2 class="text-uppercase">{{'EDUCATION_LABEL_SKILLS' | translate}}</h2>
+            <app-skill [skills]="skills" ></app-skill>
+        </div>
+    </div>
+    <div class="row pt-0 p-4">
+        <div class="col-12">
+            <h2 class="text-uppercase">{{'EDUCATION_LABEL_LANGUAGE' | translate}}</h2>
+            <app-skill [skills]="language" ></app-skill>
+        </div>
+    </div>
+</div>

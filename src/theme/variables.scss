@@ -6,10 +6,18 @@
  */
 :root {
     --app-color-background: #ECEFF1;
+    --app-color-background-items: #ffffff;
     --app-color-text: #616161;
     --app-color-accent: #4CAF50;
+    --app-color-footer: #BDBDBD;
+    --app-color-low: #FF5722;
+    --app-color-basic: #FFC107;
+    --app-color-medium: #2196F3;
+    --app-color-high: #8BC34A;
+    --app-color-very-high: #4CAF50;
+    --app-color-footer: #BDBDBD;
+    --app-color-skill-badge-background: #E8F5E9;
  
-
 }
 
 /*
@@ -18,6 +26,11 @@
  */
 body.dark {
     --app-color-background: #1c1d2a;
+    --app-color-background-items: #2f334d;
     --app-color-text: #FAFAFA;
     --app-color-accent: #4CAF50;
+    --app-color-footer: #78909C;
+    --app-color-skill-badge-background: #2f334d;
+
+
 }
