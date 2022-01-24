@@ -12,3 +12,11 @@ body {
 .accent-color{
     color: var(--app-color-accent) !important;
 }
+
+.with-icon {
+    display: flex;
+    align-items: center;
+    span{
+        margin-right: 3px;
+    }
+}
