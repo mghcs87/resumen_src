@@ -86,7 +86,7 @@ export class EducationComponent implements OnInit {
         level: levels.BASIC,
       },
       {
-        name: 'Postgre',
+        name: 'PostgreSQL',
         image: 'assets/images/postgre.png',
         category: 'EDUCATION_LABEL_DATABASE',
         level: levels.BASIC,
