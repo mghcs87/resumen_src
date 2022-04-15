@@ -47,7 +47,7 @@ export class EducationComponent implements OnInit {
         name: 'Swift',
         image: 'assets/images/swift.png',
         category: 'EDUCATION_LABEL_MOBILE',
-        level: levels.MEDIUM,
+        level: levels.HIGH,
       },
       {
         name: 'TypeScript',
@@ -77,7 +77,7 @@ export class EducationComponent implements OnInit {
         name: 'Firebase',
         image: 'assets/images/firebase.png',
         category: 'EDUCATION_LABEL_BACKEND',
-        level: levels.BASIC,
+        level: levels.MEDIUM,
       },
       {
         name: 'SQLite',
