@@ -3,9 +3,10 @@ import { TranslateService } from '@ngx-translate/core';
 import { ISkill, levels } from '../../interfaces/ISkill';
 
 @Component({
-  selector: 'app-education',
-  templateUrl: './education.component.html',
-  styleUrls: ['./education.component.scss'],
+    selector: 'app-education',
+    templateUrl: './education.component.html',
+    styleUrls: ['./education.component.scss'],
+    standalone: false
 })
 export class EducationComponent implements OnInit {
   skills: ISkill[] = [];

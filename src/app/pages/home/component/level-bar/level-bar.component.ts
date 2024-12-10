@@ -2,9 +2,10 @@ import { Component, Input, OnInit } from '@angular/core';
 import { levels } from '../../interfaces/ISkill';
 
 @Component({
-  selector: 'app-level-bar',
-  templateUrl: './level-bar.component.html',
-  styleUrls: ['./level-bar.component.scss'],
+    selector: 'app-level-bar',
+    templateUrl: './level-bar.component.html',
+    styleUrls: ['./level-bar.component.scss'],
+    standalone: false
 })
 export class LevelBarComponent implements OnInit {
   @Input() level!: levels;

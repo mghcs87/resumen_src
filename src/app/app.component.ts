@@ -6,9 +6,10 @@ import { ThemeService } from './global/services/themes/theme.service';
 export const STORAGE_LANG = 'lang'
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss'],
+    standalone: false
 })
 export class AppComponent implements OnInit{
 
